@@ -8,6 +8,9 @@ A few key things to remember when updating repository is:
 * Use `git commit -m ""` for committing the changes to the repository.
 * Use `git push` to update the repository on GitHub with the new files/folders.
 
+* Use `mkdir dirName` to create a new folder from the terminal.
+* Use `echo > fileName.fileType` to create a new file in the current folder.
+
 You can check the status of the repository using `git status`.
 
 When entering a folder, you type `cd folderName` into the terminal, and `cd ..` to exit the folder.
@@ -15,4 +18,3 @@ When entering a folder, you type `cd folderName` into the terminal, and `cd ..` 
 ## Week 1
 
 Contained in the `Practical_1` folder is the code for Week 1. It was only a starter folder used to enable version source control. The repository is now on GitHub, and is accessed via remote SSH access.
-
