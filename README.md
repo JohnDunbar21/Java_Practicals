@@ -12,3 +12,7 @@ You can check the status of the repository using `git status`.
 
 When entering a folder, you type `cd folderName` into the terminal, and `cd ..` to exit the folder.
 
+## Week 1
+
+Contained in the `Practical_1` folder is the code for Week 1. It was only a starter folder used to enable version source control. The repository is now on GitHub, and is accessed via remote SSH access.
+
