@@ -18,3 +18,8 @@ When entering a folder, you type `cd folderName` into the terminal, and `cd ..` 
 ## Week 1
 
 Contained in the `Practical_1` folder is the code for Week 1. It was only a starter folder used to enable version source control. The repository is now on GitHub, and is accessed via remote SSH access.
+
+There are some very basic Java programs in there from RuneStone academy.
+
+Learned that there is a comment type called the doc-comment denoted by a `/**` and a `*/`. These comments are pulled out by the javadoc tool which will then make documentation of a class as a web page.
+
