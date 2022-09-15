@@ -23,3 +23,6 @@ There are some very basic Java programs in there from RuneStone academy.
 
 Learned that there is a comment type called the doc-comment denoted by a `/**` and a `*/`. These comments are pulled out by the javadoc tool which will then make documentation of a class as a web page.
 
+Contained in the `Practical_2` folder is the code for Week 2 of learning, I skipped the RuneStone academy exercises as I already did them in the previous practical folder/local repository.
+
+Reinforced my understanding of the `Scanner` class, but more work can be done.
