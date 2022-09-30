@@ -8,6 +8,10 @@ A few key things to remember when updating repository is:
 * Use `git commit -m ""` for committing the changes to the repository.
 * Use `git push` to update the repository on GitHub with the new files/folders.
 * Use `git clone <url>` to clone a repository.
+* Use `git reset --hard <identifier>` to remove a commit from a branch.
+* Use `git push -f origin <branchName>` to force a push through.
+* Use `rm <filename>` to remove a file from directory.
+* Use `git checkout <identifier> <filename>` to restore a deleted file from a previous snapshot.
 
 * Use `mkdir dirName` to create a new folder from the terminal.
 * Use `echo > fileName.fileType` to create a new file in the current folder.
