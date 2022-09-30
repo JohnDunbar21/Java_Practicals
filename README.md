@@ -7,6 +7,7 @@ A few key things to remember when updating repository is:
 * Use `git add .` for staging new files and folders to the repository.
 * Use `git commit -m ""` for committing the changes to the repository.
 * Use `git push` to update the repository on GitHub with the new files/folders.
+* Use `git clone <url>` to clone a repository.
 
 * Use `mkdir dirName` to create a new folder from the terminal.
 * Use `echo > fileName.fileType` to create a new file in the current folder.
